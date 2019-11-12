@@ -43,7 +43,7 @@ echo -e  "Tools    : ~/KepoAmat $white         
 
 echo -e  "By  : ~/KepoAmat $white   " |lolcat
 
-echo -e  "Blog  : Remaja-ID Team.com 
+echo -e  "Blog  : SpensakraIXI.com 
 
 $white " |lolcat
 
